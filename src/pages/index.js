@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Banner, Section } from "../utils"
+import { Banner } from "../utils"
 
 export default class IndexPage extends Component {
   render() {
