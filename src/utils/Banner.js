@@ -13,8 +13,8 @@ export default class Banner extends Component {
           </h1>
           <input
             type="text"
-            className="search"
             placeholder="&#xF002; Search"
+            className="search"
             style={{ fontFamily: "Arial, FontAwesome" }}
           />
         </Section>
@@ -52,6 +52,7 @@ const BannerWrapper = styled.div`
       border-radius: 1rem;
       padding: 1rem;
       font-size: 1rem;
+      font-family: "FontAwesome";
     }
   }
 
