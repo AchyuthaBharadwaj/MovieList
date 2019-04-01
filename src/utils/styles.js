@@ -4,7 +4,7 @@ export const navbarColors = {
 background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 `,
-  darkbackground: `#012731`,
+  darkbackground: `rgba(25,37,50,0.3)`,
   textColor: `#fff`,
   mainBlue: `#4a90e2`,
 }
